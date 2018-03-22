@@ -1,5 +1,5 @@
 {
-  "name": "art",
+  "name": "@nfl/art",
   "description":  "Cross-browser Vector Graphics",
   "version": "0.10.1",
   "keywords": [
